@@ -14,7 +14,7 @@ Based in Italy · VAT IT03242390734 · [cuttalo.com](https://cuttalo.com)
 
 **[DepScope](https://depscope.dev)** — Package Intelligence API for AI agents.
 
-- 17 package ecosystems in one API: npm, PyPI, Cargo, Go, Maven, NuGet, RubyGems, Composer, Pub, Hex, Swift, CocoaPods, CPAN, Hackage, CRAN, Conda, Homebrew
+- 19 package ecosystems in one API: npm, PyPI, Cargo, Go, Maven, NuGet, RubyGems, Composer, Pub, Hex, Swift, CocoaPods, CPAN, Hackage, CRAN, Conda, Homebrew, JSR, Julia
 - Health score, vulnerabilities, latest version, alternatives, breaking changes
 - Free tier: 200 req/min, no auth, no signup
 - MCP server available: `npm install -g depscope-mcp`
